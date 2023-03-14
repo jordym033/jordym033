@@ -1,6 +1,5 @@
-<div>
-  ##Bem Vindos ao Perfil De Jordy
-  
+### BEM VINDO AO PERFIL DE JORDY🚀
+<div> _ _
   <a href="https://github.com/jordym033">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordym033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordym033&layout=compact&langs_count=6&theme=tokyonight"/>
